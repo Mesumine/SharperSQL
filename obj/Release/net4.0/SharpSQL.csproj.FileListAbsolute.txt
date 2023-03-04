@@ -1,0 +1,9 @@
+C:\Tools\SharpSQL-main\SharpSQL\bin\Release\net4.0\SharpSQL.exe.config
+C:\Tools\SharpSQL-main\SharpSQL\bin\Release\net4.0\SharpSQL.exe
+C:\Tools\SharpSQL-main\SharpSQL\bin\Release\net4.0\SharpSQL.pdb
+C:\Tools\SharpSQL-main\SharpSQL\obj\Release\net4.0\SharpSQL.csprojAssemblyReference.cache
+C:\Tools\SharpSQL-main\SharpSQL\obj\Release\net4.0\SharpSQL.AssemblyInfoInputs.cache
+C:\Tools\SharpSQL-main\SharpSQL\obj\Release\net4.0\SharpSQL.AssemblyInfo.cs
+C:\Tools\SharpSQL-main\SharpSQL\obj\Release\net4.0\SharpSQL.csproj.CoreCompileInputs.cache
+C:\Tools\SharpSQL-main\SharpSQL\obj\Release\net4.0\SharpSQL.exe
+C:\Tools\SharpSQL-main\SharpSQL\obj\Release\net4.0\SharpSQL.pdb
